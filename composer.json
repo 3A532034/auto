@@ -1,0 +1,11 @@
+{
+    "name": "wu/autoload",
+    "description": "\"homework\"",
+    "authors": [
+        {
+            "name": "吳駿松",
+            "email": "jo32229hn@gmail.com"
+        }
+    ],
+    "require": {}
+}
