@@ -1,16 +1,10 @@
 {
-    "name": "wu/autoload",
-    "description": "\"homework\"",
+    "name": "anriaru/auto",
     "authors": [
         {
             "name": "吳駿松",
             "email": "jo32229hn@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Demo\\":"./srt/Demo"
-        }
-    }
+    "require": {}
 }
