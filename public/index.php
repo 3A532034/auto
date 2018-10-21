@@ -9,7 +9,7 @@ $lara = new Lara();
 $vincent = new Hello\Someone('Vincent');
 
 $mary =new \Demo\Hello\Someone('Mary');
-$john= new Demo\Hello\Someone('John');
+
 /**
  * Created by PhpStorm.
  * User: Anriaru
